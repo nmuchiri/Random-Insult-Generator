@@ -8,7 +8,11 @@
     'If you ran like your mouth you\'d be in good shape',
     'Your ass must get jealous of all the shit that comes out of your mouth',
     'You\'re so dense light bends around you',
-    
+    'I would love to insult you but I\'m afraid I won\'t do as well as nature did',
+    'I would challenge you to a battle of wits but I see you\'re unarmed',
+    'You do realize that makeup isn\'t going to fix your stupidity',
+    'If I wanted to kill myself, I\'d climb your ego and jump to your IQ'
+
     ]
     
     let randomInsult= ''

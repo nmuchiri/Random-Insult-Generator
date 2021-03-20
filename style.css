@@ -9,6 +9,12 @@ body{
     border-radius: 10px;
 }
 
+.intro{
+    text-align: center;
+    justify-content: center;
+    font-size: larger;
+}
+
 .insult{
     text-align: center;
     font-size: x-large;
