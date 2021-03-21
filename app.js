@@ -11,7 +11,19 @@
     'I would love to insult you but I\'m afraid I won\'t do as well as nature did',
     'I would challenge you to a battle of wits but I see you\'re unarmed',
     'You do realize that makeup isn\'t going to fix your stupidity',
-    'If I wanted to kill myself, I\'d climb your ego and jump to your IQ'
+    'If I wanted to kill myself, I\'d climb your ego and jump to your IQ',
+    'Your gene pool could use a little chlorine',
+    'I guess those penis enlargement pills are working. You\'re twice the dick you were yesterday',
+    'If you\'re going to be two-faced at least make sure one of them is pretty',
+    'I\'d slap you, but that would be animal abuse',
+    'Somewhere out there, a tree is tirelessly producing oxygen for you. I think you owe it an apology ',
+    'You\'re so ugly, when your mum dropped you off at school she got a fine for littering',
+    'You\'re fat and I\'m not gonna sugarcoat it because you\'ll eat that too',
+    'Of course I talk like an idiot, how else would you understand me',
+    'Everyone has the right to be stupid, but you\'re abusing your priviledge',
+    'Keep rolling your eyes, maybe you\'ll find your brain back there',
+    'I bet your brain feels as good as new seeing that you\'ve never used it',
+    
 
     ]
     
