@@ -23,7 +23,7 @@
     'Everyone has the right to be stupid, but you\'re abusing your priviledge',
     'Keep rolling your eyes, maybe you\'ll find your brain back there',
     'I bet your brain feels as good as new seeing that you\'ve never used it',
-    
+
 
     ]
     
@@ -43,12 +43,18 @@
         paragraph.innerText= randomInsult
 
     }
+    const reset =()=>{
+        location.reload()
+    }
    
     document.addEventListener("DOMContentLoaded", ()=>{
-        const btn= document.querySelector("#btn")
+        const btn1= document.querySelector("#btn1")
     
         //ELEM.addEventListener(EVENT, CALLBACK)
-        btn.addEventListener("click", insult)
+        btn1.addEventListener("click", insult)
+
+        const btn2= document.querySelector("#btn2")
+        btn2.addEventListener("click", reset)
     })
 
     

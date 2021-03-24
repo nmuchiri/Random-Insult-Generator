@@ -4,32 +4,46 @@ body{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    margin-top: 50px;
+    margin-top: 30px;
+    
     
 }
 
-.container{
-    padding: 20px;
-    justify-content: center;
-    align-items: center;
-    /* border: solid 1px purple;
-    border-radius: 1px; */
-}
-.intro{
+.headline{
+    width: 1200px;
     text-align: center;
     justify-content: center;
     font-size: larger;
+    border: solid 1px purple;
+    border-radius: 1px;
+}
+.about{
+    width: 1200px;
+    text-align: center;
+    justify-content: center;
+    font-size: larger;
+    border: solid 1px purple;
+    border-radius: 1px;
 }
 
 .insult{
+    width: 1200px;
     text-align: center;
+    justify-content: center;
+    border: solid 1px purple;
+    border-radius: 1px;
     font-size: x-large;
 }
 
+.buttonDiv{
+    display: flex;
+    display: inline;
+}
 #btn{
     text-align: center;
     font-size: large;
     color: rebeccapurple;
     width: 100px;
     height: 50px;
+    margin-top: 30px;
 }
